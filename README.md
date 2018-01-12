@@ -1,4 +1,4 @@
-#YelpCamper
+
 
 A yelp-clone full-stack application in node.js Express framework, 
 with support of MongoDB.
