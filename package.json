@@ -8,7 +8,7 @@
     "start": "node app.js"
   },
   "author": "Zeyu Jin",
-  "license": "",
+  "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.1",
     "connect-flash": "^0.1.1",
