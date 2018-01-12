@@ -1,6 +1,10 @@
 #YelpCamper
 
-A yelp clone geared toward campsites from around the world.
-Built using Fullstack Javascript
+A yelp-clone full-stack application in node.js Express framework, 
+with support of MongoDB.
 
-[Live: yelpcamper.herokuapp.com](https://yelpcamper.herokuapp.com/)
+Users can sign-in, log-in and log-out and put information in theapp.
+Campground information and comments can be edited and removed by the author.
+
+
+[Live Website](https://still-earth-47290.herokuapp.com/)
