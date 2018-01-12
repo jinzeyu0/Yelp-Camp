@@ -1,0 +1,78 @@
+body {
+	background-color: aquamarine;
+}
+.nav_bar {
+	background-color: #30d4cc;
+}
+
+a:hover {
+	color:#fff;
+}
+
+a {
+	color: #fff;
+}
+
+.btn-success {
+	background-color: #3eea3e;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+.image_groups{
+    box-shadow: 9px 11px 6px black;
+}
+
+.thumbnail {
+    padding: 0.5em;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+#delete-form {
+    display: inline;
+}
+
+.login_heading {
+	text-align: center;
+}
+
+.form-control {
+	margin: 0.2em;
+}
+
+.login_body {
+	padding: 2em;
+	position: relative;
+}
+
+.facebook_button {
+	color: white;
+	background-color: #3b5998;
+	border-radius: 2em;
+}
+.jumbotron {
+	background-color: white;
+	box-shadow: 0 0 1em #9c18bd;
+}
+.google_button {
+	color: white;
+	background-color: #DD4B39;
+	border-radius: 2em;
+}
+.facebook_icon_div {
+	background-color: #3b5998;
+}
+.margin {
+	margin: 0.1em;
+}
+
+.login_content {
+	border-color: #9c18bd;
+	width: 25em;
+	height: 30em;
+	margin-top: 2em;
+}
